@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was a bit challenging at first trying to change the appearance of the app because I couln't change the colors in the activity xml files, 
+but I eventually stumbled on the colors and themes xml files and was able to change the appearance of the app a bit more to my liking. 
 
 ## License
 
